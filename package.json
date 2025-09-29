@@ -10,6 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "renovate": "^37.440.7"
+    "renovate": "^41.0.0"
   }
 }
