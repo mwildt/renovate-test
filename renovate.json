@@ -1,6 +1,0 @@
-{
-  "extends": ["config:base"],
-  "matchRepositories": [
-    "mwildt/renovate-test"
-  ]
-}
